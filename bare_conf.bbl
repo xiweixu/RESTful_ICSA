@@ -1,0 +1,156 @@
+\begin{thebibliography}{10}
+
+\bibitem{dataGov}
+{\url{http://data.gov.au/}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{CKAN}
+{ckan,\url{https://ckan.org/}}.
+\newblock (last verified September4, 2017).
+
+\bibitem{PSI}
+{Protocols and structures for inference.\url{http://psi.cecs.anu.edu.au/}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{Amazon}
+{AWS | Amazon SimpleDB – Simple Database Service,
+  \url{http://aws.amazon.com/simpledb/}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{Azure}
+{Microsoft Azure.\url{http://www.microsoft.com/azure/sql.mspx.}}
+\newblock (last verified September2, 2017).
+
+\bibitem{HTSQL}
+{A Database Query Language-HTSQL, \url{http://htsql.org/. }}.
+\newblock (last verified September2, 2017).
+
+\bibitem{AtomPub}
+{Joe Gregorio and Bill de hOra (eds). The Atom Publishing Protocol.
+  2007,\url{https://bitworking.org/projects/atom/rfc5023.html}}.
+\newblock (last verified September5, 2017).
+
+\bibitem{OpenSearch}
+{OpenSearch,\url{http://www.opensearch.org/Home}}.
+\newblock (last verified September5, 2017).
+
+\bibitem{OData}
+{OData, \url{http://www.odata.org/}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{dataPackage}
+{Data Package-Frictionless Data Specifications,
+  \url{https://specs.frictionlessdata.io/data-package/. }}.
+\newblock (last verified September2, 2017).
+
+\bibitem{JSONSchema}
+{JSON Hyper-Schema: A Vocabulary for Hypermedia Annotation of JSON,
+  \url{http://json-schema.org/latest/json-schema-hypermedia.html}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{kaggle}
+{Datasets | Kaggle,\url{https://www.kaggle.com/datasets}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{RichardMo}
+{Fowler, M.: Richardson Maturity Model,
+  \url{https://martinfowler.com/articles/richardsonMaturityModel.html}}.
+\newblock (last verified September2, 2017).
+
+\bibitem{borkar2006xml}
+Vinayak Borkar, Michael Carey, Nitin Mangtani, Denny McKinney, et~al.
+\newblock Xml data services.
+\newblock {\em International Journal of Web Services Research}, 3(1):85, 2006.
+
+\bibitem{clements2002software}
+Paul~C Clements.
+\newblock Software architecture in practice.
+\newblock {\em Diss. Software Engineering Institute}, 2002.
+
+\bibitem{dillon2013towards}
+Stuart Dillon, Florian Stahl, and Gottfried Vossen.
+\newblock Towards the web in your pocket: Curated data as a service., 2013.
+
+\bibitem{fielding2000architectural}
+Roy~T Fielding and Richard~N Taylor.
+\newblock {\em Architectural styles and the design of network-based software
+  architectures}.
+\newblock University of California, Irvine Doctoral dissertation, 2000.
+
+\bibitem{haupt2015conversation}
+Florian Haupt, Frank Leymann, and Cesare Pautasso.
+\newblock A conversation based approach for modeling rest apis.
+\newblock In {\em Software Architecture (WICSA), 2015 12th Working IEEE/IFIP
+  Conference on}, pages 165--174. IEEE, 2015.
+
+\bibitem{hellerstein2017ground}
+Joseph~M Hellerstein, Vikram Sreekanti, Joseph~E Gonzalez, James Dalton, Akon
+  Dey, Sreyashi Nag, Krishna Ramachandran, Sudhanshu Arora, Arka Bhattacharyya,
+  Shirshanka Das, et~al.
+\newblock Ground: A data context service.
+\newblock In {\em CIDR}, 2017.
+
+\bibitem{HernÃ¡ndez2011}
+Antonio~Garrote Hern{\'a}ndez and Mar{\'i}a N.~Moreno Garc{\'i}a.
+\newblock {\em Metadata Architecture in RESTful Design}, pages 459--471.
+\newblock Springer New York, New York, NY, 2011.
+
+\bibitem{idreos2015overview}
+Stratos Idreos, Olga Papaemmanouil, and Surajit Chaudhuri.
+\newblock Overview of data exploration techniques.
+\newblock In {\em Proceedings of the 2015 ACM SIGMOD International Conference
+  on Management of Data}, pages 277--281. ACM, 2015.
+
+\bibitem{jagadish2014big}
+HV~Jagadish, Johannes Gehrke, Alexandros Labrinidis, Yannis Papakonstantinou,
+  Jignesh~M Patel, Raghu Ramakrishnan, and Cyrus Shahabi.
+\newblock Big data and its technical challenges.
+\newblock {\em Communications of the ACM}, 57(7):86--94, 2014.
+
+\bibitem{khan2014divide}
+Hina~A Khan, Mohamed~A Sharaf, and Abdullah Albarrak.
+\newblock Divide: efficient diversification for interactive data exploration.
+\newblock In {\em Proceedings of the 26th International Conference on
+  Scientific and Statistical Database Management}, page~15. ACM, 2014.
+
+\bibitem{page2011rest}
+Kevin~R Page, David~C De~Roure, and Kirk Martinez.
+\newblock Rest and linked data: a match made for domain driven development?
+\newblock In {\em Proceedings of the Second International Workshop on RESTful
+  Design}, pages 22--25. ACM, 2011.
+
+\bibitem{richardson2013restful}
+Leonard Richardson, Mike Amundsen, and Sam Ruby.
+\newblock {\em RESTful Web APIs: Services for a Changing World}.
+\newblock " O'Reilly Media, Inc.", 2013.
+
+\bibitem{Robinson2011}
+Ian Robinson.
+\newblock {\em RESTful Domain Application Protocols}, pages 61--91.
+\newblock Springer New York, New York, NY, 2011.
+
+\bibitem{sellami2014odbapi}
+Rami Sellami, Sami Bhiri, and Bruno Defude.
+\newblock Odbapi: a unified rest api for relational and nosql data stores.
+\newblock In {\em Big Data (BigData Congress), 2014 IEEE International Congress
+  on}, pages 653--660. IEEE, 2014.
+
+\bibitem{sharda2014businesss}
+Ramesh Sharda, Dursun Delen, Efraim Turban, Janine Aronson, and Ting~Peng
+  Liang.
+\newblock {\em Businesss Intelligence and Analytics: Systems for Decision
+  Support-(Required)}.
+\newblock Prentice Hall London, 2014.
+
+\bibitem{tolk2003levels}
+Andreas Tolk and James~A Muguira.
+\newblock The levels of conceptual interoperability model.
+\newblock In {\em Proceedings of the 2003 fall simulation interoperability
+  workshop}, volume~7, pages 1--11. Citeseer, 2003.
+
+\bibitem{wilde2011rest}
+Erik Wilde and Cesare Pautasso.
+\newblock {\em REST: from research to practice}.
+\newblock Springer Science \& Business Media, 2011.
+
+\end{thebibliography}

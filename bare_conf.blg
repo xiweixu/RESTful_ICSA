@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bare_conf.aux
+The style file: plain.bst
+Database file #1: Biblio.bib
+Repeated entry---line 337 of file Biblio.bib
+ : @inproceedings{idreos2015overview
+ :                                  ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in dataGov
+Warning--to sort, need author or key in CKAN
+Warning--to sort, need author or key in PSI
+Warning--to sort, need author or key in Amazon
+Warning--to sort, need author or key in Azure
+Warning--to sort, need author or key in HTSQL
+Warning--to sort, need author or key in AtomPub
+Warning--to sort, need author or key in OpenSearch
+Warning--to sort, need author or key in OData
+Warning--to sort, need author or key in dataPackage
+Warning--to sort, need author or key in JSONSchema
+Warning--to sort, need author or key in kaggle
+Warning--to sort, need author or key in RichardMo
+Warning--can't use both author and editor fields in HernÃ¡ndez2011
+Warning--can't use both author and editor fields in Robinson2011
+You've used 30 entries,
+            2118 wiz_defined-function locations,
+            633 strings with 8334 characters,
+and the built_in function-call counts, 8613 in all, are:
+= -- 827
+> -- 357
+< -- 9
++ -- 150
+- -- 118
+* -- 495
+:= -- 1262
+add.period$ -- 82
+call.type$ -- 30
+change.case$ -- 128
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 362
+empty$ -- 803
+format.name$ -- 118
+if$ -- 1940
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 22
+newline$ -- 139
+num.names$ -- 34
+pop$ -- 296
+preamble$ -- 1
+purify$ -- 117
+quote$ -- 0
+skip$ -- 269
+stack$ -- 0
+substring$ -- 376
+swap$ -- 100
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 15
+while$ -- 59
+width$ -- 32
+write$ -- 280
+(There was 1 error message)
