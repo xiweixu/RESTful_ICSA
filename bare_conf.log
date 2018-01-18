@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.20)  18 JAN 2018 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.20)  18 JAN 2018 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,7 +537,6 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
-[3 <./ThreeConversationModels.pdf>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
@@ -550,8 +549,7 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-
-<navigationalModel.pdf, id=234, 703.62875pt x 407.5225pt>
+[3] <navigationalModel.pdf, id=173, 703.62875pt x 407.5225pt>
 File: navigationalModel.pdf Graphic file (type pdf)
 
 <use navigationalModel.pdf>
@@ -574,7 +572,11 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-[4 <./serviceArchitecture.pdf> <./navigationalModel.pdf>]
+
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+ [4 <./ThreeConversationModels.pdf> <./serviceArchitecture.pdf> <./navigational
+Model.pdf>]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 170.
 
 
@@ -605,7 +607,7 @@ Underfull \hbox (badness 1442) in paragraph at lines 250--251
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-<CaseStudy.pdf, id=360, 925.4575pt x 647.41875pt>
+<CaseStudy.pdf, id=359, 925.4575pt x 647.41875pt>
 File: CaseStudy.pdf Graphic file (type pdf)
  <use CaseStudy.pdf>
 Package pdftex.def Info: CaseStudy.pdf used on input line 294.
@@ -614,20 +616,20 @@ Package pdftex.def Info: CaseStudy.pdf used on input line 294.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<CaseStudyInteractive.pdf, id=362, 626.34pt x 343.2825pt>
+<CaseStudyInteractive.pdf, id=361, 626.34pt x 343.2825pt>
 File: CaseStudyInteractive.pdf Graphic file (type pdf)
 
 <use CaseStudyInteractive.pdf>
 Package pdftex.def Info: CaseStudyInteractive.pdf used on input line 306.
 (pdftex.def)             Requested size: 412.80157pt x 226.25285pt.
  [6 <./dataPackageStructure.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7 <./CaseStudy.pdf>]
+[7 <./CaseStudy.pdf>]
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <7> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 325.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
@@ -694,7 +696,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 419.
 Here is how much of TeX's memory you used:
  8592 strings out of 493089
  129477 string characters out of 6134842
- 355106 words of memory out of 5000000
+ 355171 words of memory out of 5000000
  11794 multiletter control sequences out of 15000+600000
  44056 words of font info for 85 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -709,7 +711,7 @@ t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on bare_conf.pdf (10 pages, 1090002 bytes).
+Output written on bare_conf.pdf (10 pages, 1089946 bytes).
 PDF statistics:
  631 PDF objects out of 1000 (max. 8388607)
  502 compressed objects within 6 object streams
