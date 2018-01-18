@@ -301,12 +301,12 @@ The RESTful web services are implemented using Apache CXF JAX-RS in java. Figure
 
 \subsubsection{Interactive Process}
 The analyst starts from \textit{gateway} which responds with a list of resources to be selected. He starts his work from checking the data quality by the resource \textit{function supplier}, which returns the numbers of missing values for the selected attributes,  as well as links indicating the \textit{filter}, the \textit{aggregator}, the \textit{sampler} and the \textit{packager}. Then the analyst sends a GET request to the \textit{sampler} to retrieve a sample data, the returned response contains a defined size of data sample and the URIs of services for all the possible next steps. Next, the analyst chooses the \textit{aggregator} to retrieve the summary information of the data. In each response, apart from a link pointing to the main resource API template, a specific API with predicted parameters will be recommended with an indicative \texttt{href} property. As shown in the Fig.6, when the analyst makes a request of percentage of left people, the response includes a \textit{drill down} link pointing to a predicted \textit{aggregator} API to group left people by their job. Afterwards, he selects the \textit{function supplier} to discover a correlation between each pair of attributes. The results show that on average, employees who left the company have lower satisfaction levels. The returned result guides the analyst to query the distribution of each feature correlated with the left employees. After knowing all the features of employees, the analyst moves to the \textit{filter} to retrieve the data about valuable but left employees with an evaluation result above average performance, or spend at least four years in the company, or were working on more than five projects at the same time and still have left the company. Fig.7 demonstrate the detailed RESTful interactions of data exploration we described above.
-\begin{figure}[h]
+\begin{figure*}[h]
 	\centering
-	\includegraphics[width=0.48\textwidth]{CaseStudyInteractive}
+	\includegraphics[width=0.8\textwidth]{CaseStudyInteractive}
 	\caption{Interactions in the Implementation of the Case Study}
 	\label{fig.7}
-\end{figure}
+\end{figure*}
 \subsubsection{Batch Process}
 After the analyst finishes his exploring the data, as shown in Fig.6, his data exploration process can be wrapped as a script into data package. He can share the data package in any data sharing platform for the purpose of reusability of data exploration.
 
